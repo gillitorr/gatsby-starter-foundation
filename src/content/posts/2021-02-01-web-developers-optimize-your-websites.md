@@ -16,8 +16,6 @@ Website optimization can be thought of as the scientific method. First, you esta
 
 ![Figure of "How To Optimize Your Website Step-By-Step"](/assets/articlefigure1.png "Optimizely's Step-By-Step Procedure of Website Optimization")
 
-
-
 There are 8 elements of websites to optimize according to “Website Optimization” by the company Optimizely. These elements include:
 
 1. A headline or key message related to the company’s value proposition
@@ -45,14 +43,18 @@ Some other crucial parts of website optimization are search engine optimization 
 
 They also have a table that gives an overview of all major optimization areas, which is pictured below.
 
-
-
 ![Table of optimization areas and benchmarks](/assets/articlefigure2.png "Table of Optimization Areas provided by VWO")
 
-In short, website optimization allows for visitors of your website to have great user experience without needing a lot of assistance. Rather than being on a support call, being able to make your website have as much information as possible and still be user-friendly allows for a greater experience, higher productivity, and more revenue. For more in depth information about website optimization, you may visit these three websites from which I gathered this information from:
+In short, website optimization allows for visitors of your website to have great user experience without needing a lot of assistance. Rather than being on a support call, being able to make your website have as much information as possible and still be user-friendly allows for a greater experience, higher productivity, and more revenue. For more in-depth information about website optimization, you may visit these three websites from which I gathered this information from:
 
-More SEO Info: <https://vwo.com/website-optimization/#:~:text=Website%20optimization%20is%20the%20process,search%20engine%20optimization%20(SEO)>.
+More SEO Info:
 
-General Process of Website Optimization Info: <https://qualaroo.com/website-optimization/> and <https://www.optimizely.com/optimization-glossary/website-optimization/>
+https://vwo.com/website-optimization/#:~:text=Website%20optimization%20is%20the%20process,search%20engine%20optimization%20(SEO)
+
+General Process of Website Optimization Info:
+
+https://qualaroo.com/website-optimization/
+
+https://www.optimizely.com/optimization-glossary/website-optimization/ 
 
 (Featured Image: Hal Gatewood's Photo https://unsplash.com/photos/tZc3vjPCk-Q)
