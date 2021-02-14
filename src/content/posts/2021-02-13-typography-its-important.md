@@ -44,28 +44,18 @@ The 10 tips below are a summary of the information I gathered from Nick Babich's
 9. Avoid red or green text - Red and green color blindness is the most common form of color blindness; so try not to use them!
 10. Avoid flashing text - Text that flashes can be annoying or distracting for users. In some cases, they may even trigger seizures for some individuals. 
 
-
-
 Now that we know some ways to optimize typography, let's see what's trending on modern websites.
-
-
 
 ## Trends in Typography
 
 The article "7 typography trends in web design" by Mariah Driver explains the trending designs in modern websites. Here is a breakdown and some examples of what they are and what they look like:
 
-
-
 1. Big and Bold
 
-
-
-   ![Big and Bold text example](/assets/5af9e7633f5fe41cdb0c40f3_souffl-typography.gif "https://www.souffl.com/")
+   ![Big and Bold text example](/assets/untitled.png "https://www.souffl.com/")
 
    Note that the image is only for a slogan, not a whole paragraph or sentence. 
 2. Popular Serif Fonts
-
-
 
    ![Miller Disp, Lt font ](/assets/5af9ecc8786776330005c217_gin-lane-typography.png "https://www.ginlane.com/")
 3. Minimalism with Text
@@ -73,9 +63,7 @@ The article "7 typography trends in web design" by Mariah Driver explains the tr
    ![Minimialism Text](/assets/5af9ed844efb4557c072f139_justin-jackson-typography.png "https://justinjackson.ca/words.html")
 4. Monospaced typefaces
 
-   ![Space Mono font](/assets/5af9ef2e809bd1bc440a33c0_laurent-desserrey-typography.gif "https://webflow.com/ldesserrey")
-
-
+   ![Space Mono font](/assets/monospace.png "https://webflow.com/ldesserrey")
 5. Highlighted Text
 
    ![highlighted text on Cornell website](/assets/5af9f05684aa05a57d63fa4b_engaged-cornell-typography.png "https://oei.cornell.edu/")
@@ -86,11 +74,7 @@ The article "7 typography trends in web design" by Mariah Driver explains the tr
 
    ![scattered text that reads "The Impossible is Inevitable"](/assets/5af9f1828d3f4402a7f8be9f_the-impossible-is-inevitable-typography.png "http://impossibleisinevitable.com/en/")
 
-
-
 Cool, right? With the new knowledge you have about typography and what people are doing with it, it's now your turn. Let's see the creativity!
-
-
 
 Sources:
 
