@@ -155,3 +155,10 @@ Border: https://codepen.io/Rplus/pen/lEDBj
 Mail Button: https://codepen.io/jakegilesphillips/pen/MveNLe
 
 Glowing Loader: https://codepen.io/Maxoor/pen/JZZvXJ
+
+Thumbnail Picture: https://unsplash.com/photos/SXihyA4oEJs
+
+My Inspiration for my CodePen: 
+https://codepen.io/dhanishgajjar/pen/NgQqVj 
+
+My CodePen: https://codepen.io/gillitorr/pen/BapRMNz
