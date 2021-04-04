@@ -56,7 +56,7 @@ After reading Brenda Stokes Barron's article "17 Cool Pure CSS Animations," I've
    Another creative addition to making your website livelier, this CSS border animation draws users' attention to the content inside of it. It would be good to use as a loading page or maybe even for a hover effect for a button.
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="[PURE CSS] border animation without svg" src="https://codepen.io/Rplus/embed/lEDBj?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/Rplus/pen/lEDBj'>\\\[PURE CSS] border animation without svg</a> by Rplus
+  See the Pen <a href='https://codepen.io/Rplus/pen/lEDBj'>\\\\[PURE CSS] border animation without svg</a> by Rplus
   (<a href='https://codepen.io/Rplus'>@Rplus</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
@@ -69,7 +69,9 @@ What better way to open an e-mail than actually opening an envelope on screen! T
   (<a href='https://codepen.io/jakegilesphillips'>@jakegilesphillips</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
   
-5. [Glowing Loader](https://codepen.io/Maxoor/pen/JZZvXJ) 
+
+
+5. [Glowing Loader](https://codepen.io/Maxoor/pen/JZZvXJ)
 
 In this CSS animation written by Maxime Rossignol, two dots chase each other around while the user is waiting for the website to load. A creative and fun experience for users for all ages!
 
@@ -78,15 +80,12 @@ In this CSS animation written by Maxime Rossignol, two dots chase each other aro
   (<a href='https://codepen.io/Maxoor'>@Maxoor</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-
-
 After seeing these creative works, I decided to try to make a button that had a shine effect:
+
 <iframe height="265" style="width: 100%;" scrolling="no" title="CSS Button with Glowing Background" src="https://codepen.io/gillitorr/embed/BapRMNz?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/gillitorr/pen/BapRMNz'>CSS Button with Glowing Background</a> by gillitorr
   (<a href='https://codepen.io/gillitorr'>@gillitorr</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
-
-
 
 **Animate.css**
 
