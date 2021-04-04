@@ -16,7 +16,6 @@ In CSS, there is an animation property that can be used to animate other propert
   (<a href='https://codepen.io/css-tricks'>@css-tricks</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-
 There are also sub-properties:
 
 * animation-name: name of the @keyframes rule
@@ -57,7 +56,7 @@ After reading Brenda Stokes Barron's article "17 Cool Pure CSS Animations," I've
    Another creative addition to making your website livelier, this CSS border animation draws users' attention to the content inside of it. It would be good to use as a loading page or maybe even for a hover effect for a button.
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="[PURE CSS] border animation without svg" src="https://codepen.io/Rplus/embed/lEDBj?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/Rplus/pen/lEDBj'>\\[PURE CSS] border animation without svg</a> by Rplus
+  See the Pen <a href='https://codepen.io/Rplus/pen/lEDBj'>\\\[PURE CSS] border animation without svg</a> by Rplus
   (<a href='https://codepen.io/Rplus'>@Rplus</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
@@ -81,11 +80,17 @@ In this CSS animation written by Maxime Rossignol, two dots chase each other aro
 
 
 
+After seeing these creative works, I decided to try to make a button that had a shine effect:
+<iframe height="265" style="width: 100%;" scrolling="no" title="CSS Button with Glowing Background" src="https://codepen.io/gillitorr/embed/BapRMNz?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/gillitorr/pen/BapRMNz'>CSS Button with Glowing Background</a> by gillitorr
+  (<a href='https://codepen.io/gillitorr'>@gillitorr</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+
+
 **Animate.css**
 
 While exploring through the wonders of Google, I stumbled upon Animate.css on [animate.style](animate.style). As the website states, "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints".
-
-
 
 Animation.css is installed with npm
 
@@ -106,9 +111,7 @@ Once it is installed, you can add the class `animate__animated` to an element, a
 * Rotating exits
 * Specials (hinge, jackInTheBox, rollIn/Out)
 
-
-
-You can also use the provided animations `keyframes `directly. For example:
+You can also use the provided animations `keyframes`directly. For example:
 
 ```css
 .my-element {
@@ -120,35 +123,20 @@ You can also use the provided animations `keyframes `directly. For example:
 }
 ```
 
-
-
 Additionally, you can make CSS custom properties. If you need to change an animation duration, you can set a new value to globally or locally. It also makes it easy to change all your animations time-constrained properties. Anime.css also comes with some utility classes, such as delay classes, slow/slower/fast/faster classes, and repeating classes. 
-
-
 
 While this can improve an interface's UX, it is important to follow some guidelines in order to prevent worsening user experience. 
 
 1. Meaningful animations: Avoid animating an element just for the sake of it
-
 2. Don't animate large element: It won't bring much value to the user
-
 3. Don't animate root elements: This can trigger some browser bugs, and generally does not bring good value to your UX
-
 4. Avoid infinite animations: It may annoy your users or distract them from the content you are trying to provide
-
-5. Keep in mind the initial and final state of your elements: `animation-fill-mode` controls the state of an element before and after the animation. You can change the default from `both `to what you need.
-
+5. Keep in mind the initial and final state of your elements: `animation-fill-mode` controls the state of an element before and after the animation. You can change the default from `both`to what you need.
 6. Don't disable the prefers-reduced-motion media query: This is a critical accessibility feature that should never be disabled since it helps users who have vestibular/seizure disorders.
-
-
 
 You can also use animate.css with JavaScript or make a custom build. 
 
-
-
 CSS animations provide users with fun and engaging experiences, but it is always important to keep in mind what element you are animating and why you are animating it. Which elements do you need to draw attention to? Which animations are not that necessary? Now that you've learned more about CSS animations, join the cool developers featured in this blog and create and innovate some designs!
-
-
 
 Sources:
 
