@@ -37,37 +37,57 @@ After reading Brenda Stokes Barron's article "17 Cool Pure CSS Animations," I've
 
    Written by Saransh Sinha, this CSS animation allows users to experience a starry night while exploring the page.  We can see from the code that there are three types of stars that move at different speeds, really enhancing the starry night/outer space feeling. Personally, I would use this as either a home page or loading page, with additional text and CSS styling to bring it together. For example, on a loading page, maybe another CSS animation that could be added is a shooting star or a flying UFO. 
 
+<figure>
 <iframe height="265" style="width: 100%;" scrolling="no" title="Parallax Star background in CSS" src="https://codepen.io/saransh/embed/BKJun?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/saransh/pen/BKJun'>Parallax Star background in CSS</a> by Saransh Sinha
   (<a href='https://codepen.io/saransh'>@saransh</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+<figcaption>
+Check out the <a href = "https://codepen.io/saransh/pen/BKJun">Parallax Star Background</a> by Saransh
+</figcaption>
+</figure>
 
 2. [3D Sphere](https://codepen.io/iamlark/pen/jYzYJg)
 
    A colorful and fun animation that you cannot take your eyes off of, this 3D sphere written by Sergej Skrjanec would be a great way to captivate user's attention as your web page is loading. 
 
+<figure>
 <iframe height="265" style="width: 100%;" scrolling="no" title="Pure CSS 3D Sphere" src="https://codepen.io/iamlark/embed/jYzYJg?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/iamlark/pen/jYzYJg'>Pure CSS 3D Sphere</a> by Sergej Skrjanec
   (<a href='https://codepen.io/iamlark'>@iamlark</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+<figcaption>
+Check out the <a href = "https://codepen.io/iamlark/pen/jYzYJg">3D Sphere</a> by Sergej
+</figcaption>
+</figure>
 
 3. [CSS Border Animation](https://codepen.io/Rplus/pen/lEDBj)
 
    Another creative addition to making your website livelier, this CSS border animation draws users' attention to the content inside of it. It would be good to use as a loading page or maybe even for a hover effect for a button.
 
+<figure>
 <iframe height="265" style="width: 100%;" scrolling="no" title="[PURE CSS] border animation without svg" src="https://codepen.io/Rplus/embed/lEDBj?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Rplus/pen/lEDBj'>\\\\[PURE CSS] border animation without svg</a> by Rplus
   (<a href='https://codepen.io/Rplus'>@Rplus</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+<figcaption>
+Check out this <a href = "https://codepen.io/Rplus/pen/lEDBj">CSS border animation</a> on Codepen
+</figcaption>
+</figure>
 
 4. [Animated CSS Mail Button](https://codepen.io/jakegilesphillips/pen/MveNLe)
 
 What better way to open an e-mail than actually opening an envelope on screen! This CSS Mail button written by Jake Giles-Phillips shows a creative hover effect for a button that looks like an envelope. One way I would use this button is for when users have messages they want to read, they can click this button that will reveal all the messages they have. 
 
+<figure>
 <iframe height="265" style="width: 100%;" scrolling="no" title="Animated CSS Mail Button" src="https://codepen.io/jakegilesphillips/embed/MveNLe?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/jakegilesphillips/pen/MveNLe'>Animated CSS Mail Button</a> by Jake Giles-Phillips
   (<a href='https://codepen.io/jakegilesphillips'>@jakegilesphillips</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+<figcaption>
+Check out the <a href = "https://codepen.io/jakegilesphillips/pen/MveNLe">Animated Mail Button</a> by Jake
+</figcaption>
+</figure>
   
 
 
@@ -75,17 +95,28 @@ What better way to open an e-mail than actually opening an envelope on screen! T
 
 In this CSS animation written by Maxime Rossignol, two dots chase each other around while the user is waiting for the website to load. A creative and fun experience for users for all ages!
 
+<figure>
 <iframe height="265" style="width: 100%;" scrolling="no" title="The Glowing Loader - Pure CSS Animation" src="https://codepen.io/Maxoor/embed/JZZvXJ?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Maxoor/pen/JZZvXJ'>The Glowing Loader - Pure CSS Animation</a> by Maxime Rossignol
   (<a href='https://codepen.io/Maxoor'>@Maxoor</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+<figcaption>
+Check out the <a href = "https://codepen.io/Maxoor/pen/JZZvXJ">Glowing Loader</a> by Maxime
+</figcaption>
+</figure>
+
+
 
 After seeing these creative works, I decided to try to make a button that had a shine effect:
-
+<figure>
 <iframe height="265" style="width: 100%;" scrolling="no" title="CSS Button with Glowing Background" src="https://codepen.io/gillitorr/embed/BapRMNz?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/gillitorr/pen/BapRMNz'>CSS Button with Glowing Background</a> by gillitorr
   (<a href='https://codepen.io/gillitorr'>@gillitorr</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+<figcaption>
+This button was inspired by <a href = "https://codepen.io/dhanishgajjar/pen/NgQqVj ">Dhanish</a>
+</figcaption>
+</figure>
 
 **Animate.css**
 
